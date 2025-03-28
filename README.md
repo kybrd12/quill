@@ -6,6 +6,9 @@ Beautiful terminal-inspired blog template in PHP.
 ## How to create blog posts on this template?
 [Go here for a guide on how to create blog posts on this template](https://github.com/kybrd12/quill/blob/main/posts/DELETE-THIS-FILE-how-to-make-posts.md)
 
+> [!CAUTION]
+> If you find any bugs, errors, or have any questions, **please** report them [here](https://blog.whatisthis.website/report/)
+
 ## Getting started
 To begin, clone this repository using the following command:
 
