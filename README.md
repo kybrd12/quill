@@ -22,3 +22,6 @@ Ensure that your server meets the required PHP version and dependencies before r
 - Search system
 - Markdown support
 - It's cool
+
+> [!NOTE]
+> Quill is currently in beta. Please expect some bugs and stay tuned for upcoming releases.
