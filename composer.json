@@ -1,0 +1,9 @@
+{
+    "name": "your-name/your-blog",
+    "description": "Beautiful terminal-inspired blog template made by kybrd12",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "erusev/parsedown": "^1.7"
+    }
+} 
