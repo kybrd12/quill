@@ -9,7 +9,16 @@ Beautiful terminal-inspired blog template in PHP.
 ## Getting started
 To begin, clone this repository using the following command:
 
-``git clone https://github.com/kybrd12/quill.git``
+```bash
+git clone https://github.com/kybrd12/quill.git
+```
 
 Next, upload the cloned repository to your preferred hosting platform or web server.
 Ensure that your server meets the required PHP version and dependencies before running the project.
+
+## Features
+- Good performance
+- Responsive for all screen sizes
+- Search system
+- Markdown support
+- It's cool
