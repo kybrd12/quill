@@ -10,7 +10,7 @@ Beautiful terminal-inspired blog template in PHP.
 
 > [!IMPORTANT]
 > Quill is undergoing an update. Check live updates in this [blog article](https://blog.whatisthis.website/post.php?slug=comments-soon)
-> 
+
 > [!IMPORTANT]
 > If you find any bugs, errors, or have any questions, **please** report them [here](https://blog.whatisthis.website/report/)
 
